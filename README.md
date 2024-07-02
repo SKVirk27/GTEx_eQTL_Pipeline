@@ -1,23 +1,11 @@
-# GTEx_eQTL_Pipeline
-Certainly! Here are some suggestions for a repository name and a README file template for your project.
 
-### Repository Name Suggestions
-1. `GTEx_MMP_Analysis`
-2. `eQTL_MMP_Project`
-3. `MMP_eQTL_Pipeline`
-4. `GTEx_eQTL_Pipeline`
-5. `MMP_Gene_Analysis`
-
-### README File Template
-
-```markdown
 # GTEx_MMP_Analysis
 
 This repository contains scripts and data for analyzing matrix metalloproteinase (MMP) genes using eQTL data from the GTEx (Genotype-Tissue Expression) Project.
 
 ## Overview
 
-The goal of this project is to identify significant eQTLs for MMP genes across different tissues using the GTEx Analysis V8 release. The analysis includes data cleaning, mapping gene IDs to gene names, calculating Z-scores for eQTLs, and retrieving SNP information.
+This project aims to identify significant eQTLs for MMP genes across different tissues using the GTEx Analysis V8 release. The analysis includes data cleaning, mapping gene IDs to gene names, calculating Z-scores for eQTLs, and retrieving SNP information.
 
 ## Data Source
 
@@ -95,10 +83,6 @@ variant_gene_pairs_path <- "data/Artery_Aorta.v8.signif_variant_gene_pairs.txt"
 
 # Step-by-step script as provided in the main analysis script
 ```
-
-## Contributions
-
-Contributions to this project are welcome. Please create a pull request or open an issue to discuss your suggestions or improvements.
 
 ## License
 
